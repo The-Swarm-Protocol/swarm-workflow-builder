@@ -1,0 +1,1 @@
+{"id":"dev.swarmprotocol.workflow-builder","name":"Swarm Workflow Builder","version":"0.1.0","swarmApi":"^0.1.0","entrypoint":{"type":"iframe","url":"https://workflow.swarmprotocol.fun/v0.1.0/"},"permissions":["ui:panel"]}
